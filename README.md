@@ -1,2 +1,15 @@
-# bestluxurybrands
-Luxury fashion affiliate page showcasing trending designer products and curated style inspiration.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <Fashion Affiliate</>
+
+  <!-- Impact Verification -->
+  <meta name="impact-site-verification" value="e94f837d-b742-4345-9382-e1119001bcf9" />
+
+</head>
+<body>
+  <h1>Best Luxury Brands</h1>
+  <p>Fashion and luxury affiliate content curated for style-focused audiences.</p>
+</body>
+</html>
